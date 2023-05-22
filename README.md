@@ -1,6 +1,6 @@
 # Keyword Extraction
 
-&nbsp;&nbsp;&nbsp;&nbsp;The goal of this project is to extract meaningful keywords from English text. We considered four different approaches to keyword extraction, namely:
+&nbsp;&nbsp;&nbsp;&nbsp;The goal of this project is to extract meaningful keywords from English text. We considered five different approaches to keyword extraction, namely:
 
 * Approach without pre-trained LM
 * Cosine similarity + candidate embeddings from LM
